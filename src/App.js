@@ -5,7 +5,6 @@ const App = () => {
   return(
     <div>
       <Iframe />
-      <p>hi</p>
     </div>
   )
 };
